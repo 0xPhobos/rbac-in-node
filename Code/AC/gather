@@ -1,0 +1,15 @@
+[
+  {
+    "data": {
+      "content": "Mega Seeds grow on Mega Trees"
+    },
+    "asRole": "clone"
+  },
+  {
+    "data": {
+      "id": "megaSeeds",
+      "content": "Mega Seeds grow on Mega Trees"
+    },
+    "asRole": "evilGenius"
+  }
+]
