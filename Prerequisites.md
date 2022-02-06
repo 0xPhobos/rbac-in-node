@@ -1,4 +1,6 @@
-1- You'll need a basic understanding of Javascript and Node.js to follow this post.
+ # Prerequisites
+ 
+ 1- You'll need a basic understanding of Javascript and Node.js to follow this post.
 
 2- You'll need Node.js and Yarn installed on your machine.
 
