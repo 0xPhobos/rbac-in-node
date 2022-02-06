@@ -1,0 +1,11 @@
+app.get("/api/:asset", hasPermission("gather"), (req, res) => {
+  res.send("Got Permission");
+});
+
+app.put("/api/:asset", hasPermission("consume"), (req, res) => {
+  res.send("Got Permission");
+});
+
+app.delete("/api/:asset", hasPermission("destroy"), (req, res) => {
+  res.send("Got Permission");
+});
