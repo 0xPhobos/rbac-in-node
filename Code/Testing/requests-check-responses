@@ -1,0 +1,8 @@
+curl -X <HTTP Verb> --location 'http://localhost:8080/api/<asset>' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "user": {
+        "id": "insert id"
+    }
+
+}'
